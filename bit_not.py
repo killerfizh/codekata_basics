@@ -1,4 +1,4 @@
-def Bit_nor(n):
+def Bit_not(n):
   print(~n)
 a = int(input())
-Bit_nor(a)
+Bit_not(a)
